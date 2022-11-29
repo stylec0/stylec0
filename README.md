@@ -2,9 +2,6 @@
 <h3 align="center">Experienced IT Professional | Full Stack Web Developer | Recent Software Engineering Graduate</h3> 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b88ce353761d57490877e63fb739521e99bad72c&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stylec0&label=Profile%20views&color=0e75b6&style=flat" alt="stylec0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stylec0" alt="stylec0" /></a> </p>
 
 - 🔭 I’m currently working on **1StopShop**
 
@@ -24,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stylec0&show_icons=true&locale=en" alt="stylec0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stylec0&" alt="stylec0" /></p>
+
